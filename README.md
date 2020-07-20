@@ -1,0 +1,2 @@
+# teszteles
+tanultak tesztelése
